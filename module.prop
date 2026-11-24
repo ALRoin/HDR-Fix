@@ -1,0 +1,6 @@
+id=hdr_fix
+name=HDR Video Fix
+version=v1.0
+versionCode=1
+author=ALRoin
+description=Fixes washed-out, faded HDR video playback.
